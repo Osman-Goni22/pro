@@ -1,0 +1,106 @@
+
+body{
+    background-color: blanchedalmond;
+    margin: 0px;
+    padding: 0px;
+}
+
+.div-clear{
+    clear: both;
+}
+.container{
+    width: 1000px;
+    background-color: beige;
+    margin:0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: darkcyan;
+}
+img{
+height: 100px;
+width: 120px;
+border-radius: 50%;
+float: left;
+}
+
+.bio{
+float: left;
+padding: 10px;
+padding-left: 30px;
+
+}
+
+.head-contact{
+float: right;
+}
+
+hr{
+border: solid black 3px;
+}
+.head-contact a{
+ text-decoration: none;
+}
+
+.head-contact:hover{
+text-decoration: underline;
+}
+
+.left-div{
+width: 30%;
+float: left;
+
+}
+.right-div{
+width: 70%;
+float: left;
+text-align: justify;
+}
+.common-hr{
+    border: 2px solid black;
+    width: 100%;
+    border-bottom: none;
+   
+}
+
+.work{
+    width: 30%;
+    float: left;
+}
+
+.work-description{
+    width: 70%;
+    float: right;
+    text-align: justify;
+}
+
+.bsc{
+    width: 30%;
+    float: left;
+    text-align: justify;
+}
+
+.msc{
+    width: 30%;
+    float: right;
+    text-align: justify;
+}
+
+.foot {
+   float: left;
+   width: 970px;
+   margin: 0px auto;
+    
+    text-align: center;
+
+    background-color:darkgreen;
+    text-emphasis-color: white;
+}
+
+
+.foot a{
+    padding: 200px;
+    
+}
